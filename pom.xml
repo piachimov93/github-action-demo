@@ -49,6 +49,8 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>github-action-demo</finalName>
     </build>
+
 
 </project>
